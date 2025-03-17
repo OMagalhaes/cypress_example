@@ -11,7 +11,7 @@ describe('Login Tests', () => {
   it('Test Login - Valid Credentials', () => {
     LoginPage.openLoginPage();
     LoginPage.fillCredentialsLogin(testData.validUser, testData.validPassword);
-    AppHeader.openAppPage();
+    AppHeader.openCatalogPage();
   });
 
   it('Test Login - Missing username', () => {

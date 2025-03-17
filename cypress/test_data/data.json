@@ -8,5 +8,11 @@
     "noUsernameErrorMessage": "Epic sadface: Username is required",
     "noPasswordErrorMessage": "Epic sadface: Password is required",
     "invalidUserErrorMessage": "Epic sadface: Username and password do not match any user in this service",
-    "lockedUserErrorMessage": "Epic sadface: Sorry, this user has been locked out."
+    "lockedUserErrorMessage": "Epic sadface: Sorry, this user has been locked out.",
+
+    "checkoutFirstName": "Standard",
+    "checkoutLastName": "User",
+    "checkoutPostalCode": "1234-567",
+    "checkoutSummaryTotalAmountLabel": "Total: $",
+    "checkoutSuccessMessage": "Thank you for your order!"
 }
