@@ -3,5 +3,10 @@
     "lockedUser": "locked_out_user",
     "invalidUser": "invalid_user",
     "validPassword": "secret_sauce",
-    "invalidPassword": "invalid_pass"
+    "invalidPassword": "invalid_pass",
+
+    "noUsernameErrorMessage": "Epic sadface: Username is required",
+    "noPasswordErrorMessage": "Epic sadface: Password is required",
+    "invalidUserErrorMessage": "Epic sadface: Username and password do not match any user in this service",
+    "lockedUserErrorMessage": "Epic sadface: Sorry, this user has been locked out."
 }
